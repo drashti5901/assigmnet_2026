@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Python Programming",
+    "instructor": "John Smith",
+    "progress": 65,
+    "totalLessons": 20,
+    "lessonTitles": [
+      "Introduction",
+      "Variables & Data Types",
+      "Functions",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Generative AI",
+    "instructor": "Sarah Williams",
+    "progress": 40,
+    "totalLessons": 16,
+    "lessonTitles": [
+      "Introduction to Generative AI",
+      "How Language Models Work",
+      "Prompt Engineering",
+      "Responsible AI"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Development",
+    "instructor": "David Brown",
+    "progress": 25,
+    "totalLessons": 28,
+    "lessonTitles": [
+      "The Web Platform",
+      "HTML & CSS",
+      "Building with JavaScript",
+      "Working with APIs"
+    ]
+  }
+]
