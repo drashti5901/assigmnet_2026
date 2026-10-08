@@ -3,7 +3,7 @@ import {
   mergeCachedProgress,
   markLessonCompleted,
   progressAfterLessonCompletion,
-} from '../src/domain/course';
+} from '../src/features/courses/domain/course';
 
 const course: Course = {
   id: 7,
